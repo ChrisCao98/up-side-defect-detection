@@ -1,6 +1,6 @@
-# Speckle-Image Anomaly Detection
+# UP-Side Defect Detection
 
-Anomaly detection on grayscale images of molded parts. The target is **zero missed defects**: the threshold is the lowest raw score among a 149-image defect library, and every percentage below is the fraction of *unseen* good images that cross it.
+Anomaly detection on grayscale images of the UP side of molded parts. The target is **zero missed defects**: the threshold is the lowest raw score among a 149-image defect library, and every percentage below is the fraction of *unseen* good images that cross it.
 
 [中文](README.md)
 
