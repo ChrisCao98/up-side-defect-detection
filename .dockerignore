@@ -1,0 +1,13 @@
+.git
+weights
+scores
+result_*
+datasets_*
+eval_defect149
+logs
+products*
+test_images*
+__pycache__
+*.pyc
+*.ckpt
+*.npz

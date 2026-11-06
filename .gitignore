@@ -1,0 +1,16 @@
+# 数据与运行产物不进版本库
+/weights/
+/eval_defect149/
+/test_images*/
+/datasets_*/
+/products*/
+/result_*/
+/logs/
+/scores/*
+!/scores/.gitkeep
+
+*.ckpt
+*.npz
+*.pyc
+__pycache__/
+.DS_Store
